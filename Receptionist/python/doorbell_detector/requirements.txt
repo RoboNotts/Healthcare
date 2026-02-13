@@ -1,0 +1,6 @@
+sounddevice
+librosa
+numpy
+tensorflow
+tensorflow_hub
+pydub

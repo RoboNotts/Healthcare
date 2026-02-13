@@ -14,3 +14,14 @@
 .cxx
 local.properties
 .idea/
+__pycache__/
+*.dylib
+*.so
+# Python virtual environments
+**/venv/
+**/.venv/
+
+# PyTorch and Model weights
+*.pt
+*.pth
+**/runs/

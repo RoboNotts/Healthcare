@@ -1,0 +1,9 @@
+path: /Users/cademaxwell/Documents/uni/robonotts/healthcare/Receptionist/python/seat_detector/seat_detector_dataset_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: empty_seat
+  1: occupied_seat
+  2: person

@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+.venv/
+__pycache__/
+*.dylib
+*.so
